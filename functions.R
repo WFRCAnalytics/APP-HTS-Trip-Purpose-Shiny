@@ -1,0 +1,5 @@
+data <- read_csv("dataprep/trips_by_type.csv")
+labelsModeTypeBroad <- read_csv("labels/mode_type_broad_labels.csv")
+labelsNumVehicles <- read_csv("labels/num_vehicles_labels.csv")
+labelsNumWorkers <- read_csv("labels/num_workers_labels.csv")
+labelsSampleSegmentGroups <- read_csv("labels/sample_segment_groups.csv")

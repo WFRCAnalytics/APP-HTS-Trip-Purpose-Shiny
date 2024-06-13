@@ -1,0 +1,12 @@
+name: HTS-Trip-Purpose-R-Shiny
+title: HTS-Trip-Purpose-R-Shiny
+username: wfrc
+account: wfrc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12173704
+bundleId: 8734724
+url: https://wfrc.shinyapps.io/HTS-Trip-Purpose-R-Shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
