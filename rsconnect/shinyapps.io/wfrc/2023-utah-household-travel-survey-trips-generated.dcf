@@ -5,7 +5,7 @@ account: wfrc
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12173722
-bundleId: 8734832
+bundleId: 8754900
 url: https://wfrc.shinyapps.io/2023-utah-household-travel-survey-trips-generated/
 version: 1
 asMultiple: FALSE

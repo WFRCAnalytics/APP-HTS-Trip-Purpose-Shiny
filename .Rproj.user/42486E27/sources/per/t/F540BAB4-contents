@@ -127,14 +127,15 @@ server <- function(input, output, session) {
         theme_minimal() +
         labs(title = "Number of Trips per Household by Trip Purpose",
              x = "",
-             y = "Trips per Household") +
+             y = "Trips perHousehold") +  # Inserted line break
         theme(
           plot.title = element_text(size = 20, face = "bold"),
           axis.title.x = element_text(size = 16),
-          axis.title.y = element_text(size = 16),
+          axis.title.y = element_text(size = 16, lineheight = 0.8),  # Adjust line height if needed
           axis.text = element_text(size = 14)
         )
     })
+    
     
     output$selectedInputs <- renderText({
       paste("\n",
