@@ -8,4 +8,4 @@ Some data issues still remain to be resolved, such as the higher number of 'miss
 
 The app can be access here: https://wfrc.shinyapps.io/2023-utah-household-travel-survey-trips-generated/
 
-![image](https://github.com/user-attachments/assets/f5a2bf42-5c66-49db-8eb2-7f2cbe4c8979)
+![image](https://github.com/user-attachments/assets/93211e3b-b55e-499a-8a3d-61fbf38559c0)
