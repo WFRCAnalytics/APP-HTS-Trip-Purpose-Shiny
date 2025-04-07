@@ -4,4 +4,8 @@ The Household Travel Survey (HTS) Trip Purpose App is an R-Shiny app that displa
 
 The `dataprep` folder contains a jupyter notebook with the code to access the 2023 HTS via BigQuery API and the SQL code to generate the `trips_by_type.csv`.
 
+Some data issues still remain to be resolved, such as the higher number of 'missing response' trips.
+
+The app can be access here: https://wfrc.shinyapps.io/2023-utah-household-travel-survey-trips-generated/
+
 ![image](https://github.com/user-attachments/assets/f5a2bf42-5c66-49db-8eb2-7f2cbe4c8979)
